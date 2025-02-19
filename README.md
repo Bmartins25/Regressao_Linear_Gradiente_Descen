@@ -1,3 +1,3 @@
 
-Regressão Linear com Gradiente Descendente
-Exercício Coursera
+* Regressão Linear com Gradiente Descendente
+* Exercício Coursera
